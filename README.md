@@ -1,6 +1,6 @@
 # Predicting Student Performance and Dropout Risk
 
-## Project Overview
+## Overview
 This project uses machine learning techniques to analyze student academic and behavioral data. 
 The goal is to predict final exam performance and identify students who may be at risk of dropping out.
 
