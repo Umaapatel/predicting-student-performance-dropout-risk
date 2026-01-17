@@ -10,6 +10,19 @@ The goal is to predict final exam performance and identify students who may be a
 - Target variables:
   - Final Grade (G3) – Regression
   - Dropout Risk (Yes/No) – Classification
+## Data Dictionary (Key Variables)
+
+The dataset contains student demographic, academic, behavioral, and support-related attributes.
+Key variables include:
+
+- **G1, G2** – First and second period grades
+- **G3** – Final grade (target variable for regression)
+- **studytime** – Weekly study time
+- **failures** – Number of past failures
+- **absences** – School absences
+- **Dalc, Walc** – Alcohol consumption indicators
+- **schoolsup, famsup** – Academic support indicators
+
 
 ## Machine Learning Models
 - Linear Regression – Final grade prediction
